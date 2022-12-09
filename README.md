@@ -1,8 +1,21 @@
+### FootballSquadSimulator Demo Video
+
+[![fss_img](https://user-images.githubusercontent.com/43931412/206648238-ff09655a-106e-4861-886e-140ed4fbbd3b.png)](https://www.youtube.com/watch?v=dxtBo5Kp3P0)
+
+- Select and place the competitor in the desired position.
+- If you select a duplicate player, you will receive a warning message.
+- The balance in the upper left corner of the table will be reduced as the player is recruited.
+- An error message is output when the balance is exceeded.
+- If you form a team, you will be able to do the squad that you made
+- You can see it at different angles and locations.
+
+
 # What is FootballSquadSimulator?
 <img src="https://user-images.githubusercontent.com/43931412/206649262-3d9e8576-5efd-46c9-99d5-cde0b72459d8.png" width="800" height="600"/>
 
-*HellSchedule is an application that reads different people's body type and introduce them how to exercise according to body type.*
 *You may have experience in forming squads through FM or FIFA Online.*
+*You can enjoy it on the WEB in 3D!*
+
 
 ### 1. Description
 - There are 25 players in the game.
@@ -15,16 +28,6 @@
 
 </br>
 
-### FootballSquadSimulator Demo Video
-
-[![fss_img](https://user-images.githubusercontent.com/43931412/206648238-ff09655a-106e-4861-886e-140ed4fbbd3b.png)](https://www.youtube.com/watch?v=dxtBo5Kp3P0)
-
-- Select and place the competitor in the desired position.
-- If you select a duplicate player, you will receive a warning message.
-- The balance in the upper left corner of the table will be reduced as the player is recruited.
-- An error message is output when the balance is exceeded.
-- If you form a team, you will be able to do the squad that you made
-- You can see it at different angles and locations.
 
 
 
