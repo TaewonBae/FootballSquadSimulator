@@ -34,11 +34,8 @@
 </br>
 
 ### 2. KeyFeature
-</br>
 
 ![img2](https://user-images.githubusercontent.com/43931412/206653875-fc2e5231-27e3-4740-9648-fd011375f28f.png)
-
-</br>
 
 - All players are modeled in 3D, and they can be viewed from various angles by implementing a camera vision.
 - The Light Source is fixed in the upper right corner, and you can see that it is applied in a variety of ways depending on the viewer's perspective. 
