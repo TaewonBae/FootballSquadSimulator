@@ -11,7 +11,7 @@
 
 
 # What is FootballSquadSimulator?
-<img src="https://user-images.githubusercontent.com/43931412/206649262-3d9e8576-5efd-46c9-99d5-cde0b72459d8.png" width="800" height="600"/>
+<img src="https://user-images.githubusercontent.com/43931412/206649262-3d9e8576-5efd-46c9-99d5-cde0b72459d8.png"/>
 
 *You may have experience in forming squads through FM or FIFA Online.*
 *You can enjoy it on the WEB in 3D!*
