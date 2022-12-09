@@ -1,4 +1,4 @@
-### FootballSquadSimulator Demo Video
+## FootballSquadSimulator Demo Video
 *Click on the image below to play the demo video.*
 
 </br>
@@ -15,7 +15,7 @@
 - You can see it at different angles and locations.
 
 
-### What is FootballSquadSimulator?
+## What is FootballSquadSimulator?
 <img src="https://user-images.githubusercontent.com/43931412/206649262-3d9e8576-5efd-46c9-99d5-cde0b72459d8.png"/>
 
 *You may have experience in forming squads through FM or FIFA Online.*
