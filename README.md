@@ -54,15 +54,15 @@
 * Store User's info and exercise in DB - DB Browser || Firebase
 * Collect Data (walkway, body type, etc.) - from https://www.data.go.kr/[Data Portal]
 
+
+
+</br></br>
+
 ***
 # Developer
 
 Moon Seong-Hoon
 foxtail96@naver.com
-Gachon Univ
-
-Park Ki-Sung
-96sean@naver.com
 Gachon Univ
 
 Bae Tae-Won
