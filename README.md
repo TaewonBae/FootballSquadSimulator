@@ -8,8 +8,16 @@
 # What is FootballSquadSimulator?
 
 *HellSchedule is an application that reads different people's body type and introduce them how to exercise according to body type.*
+*You may have experience in forming squads through FM or FIFA Online.*
 
-You may have experience in forming squads through FM or FIFA Online.
+### 1. Description
+- There are 25 players in the game.
+- User have to pay a certain fee to transfer a player.
+- Users can choose their preferred players.
+- User have to make a squad within $15
+- Warning message will be printed if the value exceeds $15
+- Make your own best squad!
+
  
 You can enjoy it on the WEB in 3D!
 ![image](https://user-images.githubusercontent.com/43931412/206648821-36ccfb90-fab4-4beb-8a01-1a17040f747a.png)
