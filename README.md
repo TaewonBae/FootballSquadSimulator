@@ -73,41 +73,20 @@
 
 </br>
 
-
-***
-# Process
-1. Detects users location and checks if users are at the gym or not.
-1. Read body information(height, weight, skeletal muscle, BMI, etc.) using OCR. 
-1. Analyze a person's body type.
-1. Store people's information in DB.
-1. Tell people how to exercise according to their body type. (exercise is stored in DB) 
-1. Based on the location information of the gym and house, recommend about the nearby walkway.
-
-***
-# Development Technology
-* Application Service - Android Studio
-* Reading body info - Optical character recognition(OCR)
-* Detect user's GPS - Google Location Services API
-* Store User's info and exercise in DB - DB Browser || Firebase
-* Collect Data (walkway, body type, etc.) - from https://www.data.go.kr/[Data Portal]
-
-
-
-</br></br>
-
 ***
 # Developer
 
-Moon Seong-Hoon
-foxtail96@naver.com
+Moon Seong-Hoon(Player texture mapping/Button Click Event/Cost function/Duplicate protection)
+E-mail : foxtail96@naver.com
 Gachon Univ
 
-Bae Tae-Won
-grrard1283@naver.com
+Bae Tae-Won (Stadium texture mapping/Player texture mapping/Scaling function/Light source)
+E-mail : grrard1283@naver.com
 Gachon Univ
 
-Choi Han-Bin
-wkgkskak@naver.com
+
+Choi Han-Bin(Player texture mapping/Camera Vision/Translation function/Rotating function)
+E-mail : wkgkskak@naver.com
 Gachon Univ
 
 ***
