@@ -1,9 +1,3 @@
-# FootballSquadSimulator Demo Video
-
-[![fss_img](https://user-images.githubusercontent.com/43931412/206648238-ff09655a-106e-4861-886e-140ed4fbbd3b.png)](https://www.youtube.com/watch?v=dxtBo5Kp3P0)
-
-
-
 ***
 # What is FootballSquadSimulator?
 
@@ -22,17 +16,16 @@
 </br>
 <img src="https://user-images.githubusercontent.com/43931412/206649262-3d9e8576-5efd-46c9-99d5-cde0b72459d8.png" width="800" height="600"/>
 
-* This application will help you to plan your exercise.
+### FootballSquadSimulator Demo Video
 
-* Attendance is recognized if you stay at a place similar to the gym through the user's location for a certain period of time.
+[![fss_img](https://user-images.githubusercontent.com/43931412/206648238-ff09655a-106e-4861-886e-140ed4fbbd3b.png)](https://www.youtube.com/watch?v=dxtBo5Kp3P0)
 
-* You can easily know your body type. (fat, skinny, healthy, lower body obesity, upper body obesity)
-
-* You don't have to think about how to exercise anymore. 
-
-* It is to give you a walkway and a variety of health knowledge.
-
-* You can see the knowledge of exercise and health regardless of time and place.
+- Select and place the competitor in the desired position.
+- If you select a duplicate player, you will receive a warning message.
+- The balance in the upper left corner of the table will be reduced as the player is recruited.
+- An error message is output when the balance is exceeded.
+- If you form a team, you will be able to do the squad that you made
+- You can see it at different angles and locations.
 
 
 
