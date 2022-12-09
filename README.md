@@ -23,9 +23,7 @@
 * You can see the knowledge of exercise and health regardless of time and place.
 
 
-----
-Don't be afraid to start exercising. The HellSchedule will be with you.
-----
+
 
 ***
 # Process
