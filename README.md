@@ -73,21 +73,18 @@
 
 </br>
 
-***
-# Developer
+
+### Developer
 
 Moon Seong-Hoon(Player texture mapping/Button Click Event/Cost function/Duplicate protection)</br>
 E-mail : foxtail96@naver.com</br>
 Gachon Univ
 
-Bae Tae-Won (Stadium texture mapping/Player texture mapping/Scaling function/Light source)
-E-mail : grrard1283@naver.com
+Bae Tae-Won (Stadium texture mapping/Player texture mapping/Scaling function/Light source)</br>
+E-mail : grrard1283@naver.com</br>
 Gachon Univ
 
 
-Choi Han-Bin(Player texture mapping/Camera Vision/Translation function/Rotating function)
-E-mail : wkgkskak@naver.com
+Choi Han-Bin(Player texture mapping/Camera Vision/Translation function/Rotating function)</br>
+E-mail : wkgkskak@naver.com</br>
 Gachon Univ
-
-***
-
