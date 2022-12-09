@@ -42,9 +42,36 @@
 - You can now see the light source applied to the stand position.
 - We expressed it more realistically by applying scaling to match the actual players' height.
 - Translation can be applied to keyboard events to place players in the desired position, and rotations can be used to rotate players.
+
+</br>
+
+### 3. Detail 1
+
+![img3](https://user-images.githubusercontent.com/43931412/206654717-95c6b371-43a3-4d87-807a-6bec86084067.png)
+
+- In the case of Scaling, a specific magnification was multiplied by 185cm to adjust the size to the actual height of each player.
+- For Translation, apply a keyboard event based on the ZX plane to match the keyboard by 0.5 on the x-axis.
+- It is implemented so that the player can move by 0.5 on the z-axis.
+- For Rotation, press Q relative to the y-axis and press E to rotate the competitor by approximately 5.7 degrees for each counterclockwise press.
+
+</br>
+
+### 4. Detail 2
+
+![img4](https://user-images.githubusercontent.com/43931412/206654972-a0f7b6bf-7c0c-4c1c-b48f-42fa68652986.png)
+
+- Because we used 3Dobj, we used obj files to load vector values applied to each model and Texture files for image mapping, and loaded MTL files to apply Texture.
+- In the process, the material values of MTL and obj files were modified according to the player using various png files corresponding to the textures such as the player's eyes, hair, uniform, and skin.
 - 
 </br>
 
+### 5. Detail 3
+
+![img5](https://user-images.githubusercontent.com/43931412/206655396-fb0e8807-8315-425f-ad26-c061aac98211.png)
+
+- Most of the obj and Texture files for 3D models were paid, so it was difficult to get files for 25 players, but we got a file for one player and designed a uniform for 25 players, skin, and hair, and applied it to each player.
+
+</br>
 
 
 ***
