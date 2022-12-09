@@ -1,6 +1,6 @@
 # FootballSquadSimulator Demo Video
 
-[![Watch the video](https://user-images.githubusercontent.com/44600584/85828246-e878f100-b7c2-11ea-9128-46a620f43d52.PNG)](https://www.youtube.com/watch?v=dxtBo5Kp3P0)
+[![fss_img](https://user-images.githubusercontent.com/43931412/206648238-ff09655a-106e-4861-886e-140ed4fbbd3b.png)](https://www.youtube.com/watch?v=dxtBo5Kp3P0)
 
 
 
