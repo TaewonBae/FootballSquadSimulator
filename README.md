@@ -17,9 +17,8 @@
 - User have to make a squad within $15
 - Warning message will be printed if the value exceeds $15
 - Make your own best squad!
+- You can enjoy it on the WEB in 3D!
 
- 
-You can enjoy it on the WEB in 3D!
 ![image](https://user-images.githubusercontent.com/43931412/206648821-36ccfb90-fab4-4beb-8a01-1a17040f747a.png)
 
 * This application will help you to plan your exercise.
