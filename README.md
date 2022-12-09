@@ -74,7 +74,7 @@
 </br>
 
 
-### Developer
+### 6. Developer
 
 Moon Seong-Hoon(Player texture mapping/Button Click Event/Cost function/Duplicate protection)</br>
 E-mail : foxtail96@naver.com</br>
