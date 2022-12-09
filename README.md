@@ -1,7 +1,10 @@
 ### FootballSquadSimulator Demo Video
 *Click on the image below to play the demo video.*
+
+</br>
 [![fss_img](https://user-images.githubusercontent.com/43931412/206648238-ff09655a-106e-4861-886e-140ed4fbbd3b.png)](https://www.youtube.com/watch?v=dxtBo5Kp3P0)
 
+</br>
 - Select and place the competitor in the desired position.
 - If you select a duplicate player, you will receive a warning message.
 - The balance in the upper left corner of the table will be reduced as the player is recruited.
@@ -10,7 +13,7 @@
 - You can see it at different angles and locations.
 
 
-# What is FootballSquadSimulator?
+### What is FootballSquadSimulator?
 <img src="https://user-images.githubusercontent.com/43931412/206649262-3d9e8576-5efd-46c9-99d5-cde0b72459d8.png"/>
 
 *You may have experience in forming squads through FM or FIFA Online.*
