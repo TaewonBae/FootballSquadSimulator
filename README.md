@@ -62,7 +62,7 @@
 
 - Because we used 3Dobj, we used obj files to load vector values applied to each model and Texture files for image mapping, and loaded MTL files to apply Texture.
 - In the process, the material values of MTL and obj files were modified according to the player using various png files corresponding to the textures such as the player's eyes, hair, uniform, and skin.
-- 
+
 </br>
 
 ### 5. Detail 3
