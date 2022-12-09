@@ -76,8 +76,8 @@
 ***
 # Developer
 
-Moon Seong-Hoon(Player texture mapping/Button Click Event/Cost function/Duplicate protection)
-E-mail : foxtail96@naver.com
+Moon Seong-Hoon(Player texture mapping/Button Click Event/Cost function/Duplicate protection)</br>
+E-mail : foxtail96@naver.com</br>
 Gachon Univ
 
 Bae Tae-Won (Stadium texture mapping/Player texture mapping/Scaling function/Light source)
