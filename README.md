@@ -1,4 +1,4 @@
-## FootballSquadSimulator Demo Video1
+## FootballSquadSimulator Demo Video
 *Click on the image below to play the demo video.*
 
 </br>
